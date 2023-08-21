@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "st.multiselect", "st.multiselect\st.multiselect.pyproj", "{4F8989B2-9131-4CF9-BDD5-36F31123AF9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F8989B2-9131-4CF9-BDD5-36F31123AF9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F8989B2-9131-4CF9-BDD5-36F31123AF9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD407ABF-A3CE-414D-A374-A82B53987FD4}
+	EndGlobalSection
+EndGlobal

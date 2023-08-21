@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "st.selectbox", "st.selectbox\st.selectbox.pyproj", "{FE30C7F6-8B73-469F-B3A0-9E60943E79FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE30C7F6-8B73-469F-B3A0-9E60943E79FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE30C7F6-8B73-469F-B3A0-9E60943E79FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA662127-854F-4269-ABC4-D1C61A92B9B3}
+	EndGlobalSection
+EndGlobal
